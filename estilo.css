@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+
+div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+.h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.marquee{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+.figura1{
+ width: 630px;
+}
+
+.figura2{
+    width: 732px;
+}
+
+.figura3{
+    width: 955px;
+}
+
+.price {
+    text-align: center;
+    margin-top: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color:whitesmoke;
+}
